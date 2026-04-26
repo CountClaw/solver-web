@@ -1,0 +1,9 @@
+quart==0.20.0
+hypercorn==0.17.3
+python-dotenv==1.0.1
+requests==2.32.3
+redis==5.2.1
+SQLAlchemy==2.0.38
+psycopg[binary]==3.2.6
+pytest==8.3.5
+
